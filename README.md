@@ -4,7 +4,7 @@
   <img src="https://img.shields.io/badge/MiCommunityTool-%23FF6900?style=flat&logo=xiaomi&logoColor=white" alt="MiCommunityTool" width="200"/>
 </a>
 
-This is a stripped down version of the mi community tool 1.5.3 where latency test is the main focus
+This is a stripped down version of the [mi community tool 1.5.3](https://github.com/MiForge/MiCommunityTool/tree/f44d6a10d35a9329dac62a2f1331b021a08479a5) where latency test is the main focus
 
 AI was used, main code has not been modified
 

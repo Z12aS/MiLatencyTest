@@ -12,9 +12,11 @@ AI was used, main code has not been modified
 
 
 Preview: 
-<img src="https://cdn.discordapp.com/attachments/859711053963984926/1558070400078839889/image.png?ex=6aca19a2&is=6ac8c822&hm=7df964756af7a62e1ef5547df3f79bd9731fa7de8e59bdf8a19325624db5e357&"/>
+<img src="https://cdn.discordapp.com/attachments/859711053963984926/1558073749004099605/image.png?ex=6aca1cc1&is=6ac8cb41&hm=b3d7d24203c122059fdb23a588893898f1fb28d63cb51844a50bb67b4e12888c&"/>
 
-Note on preview result: here the lowest value is the correct value, my actual ping to china is around 500ms so in my case around 700ms should be used in miapply
+Note on preview result: Results are not always the same, in this case they are correct, 3/4 requests got the correct latency, but sometimes they arent trustworthy: 3/4 of them show wrong latency
+
+<img src="https://cdn.discordapp.com/attachments/859711053963984926/1558070400078839889/image.png?ex=6aca19a2&is=6ac8c822&hm=7df964756af7a62e1ef5547df3f79bd9731fa7de8e59bdf8a19325624db5e357&"/>
 </div>
 
 ---

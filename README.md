@@ -8,6 +8,13 @@ This is a stripped down version of the mi community tool 1.5.3 where latency tes
 
 AI was used, main code has not been modified
 
+
+
+
+Preview: 
+<img src="https://cdn.discordapp.com/attachments/859711053963984926/1558070400078839889/image.png?ex=6aca19a2&is=6ac8c822&hm=7df964756af7a62e1ef5547df3f79bd9731fa7de8e59bdf8a19325624db5e357&"/>
+
+Note on preview result: here the lowest value is the correct value, my actual ping to china is around 500ms so in my case around 700ms should be used in miapply
 </div>
 
 ---
